@@ -29,11 +29,12 @@ img {
 }
 
 .btn {
+    display: inline-block;
     font: inherit;
     background: none;
     border: none;
     color: inherit;
-    display: inline-block;
+    padding: 0;
     cursor: pointer;
 }
 
