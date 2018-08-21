@@ -29,16 +29,12 @@ img {
 }
 
 .btn {
-    all: unset;
+    font: inherit;
     background: none;
     border: none;
     color: inherit;
     display: inline-block;
     cursor: pointer;
-}
-
-.btn:focus {
-    outline: 0.5rem auto #4d90fe;
 }
 
 .visually-hidden {
